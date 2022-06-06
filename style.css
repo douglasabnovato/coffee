@@ -234,7 +234,18 @@ p {
     font-weight: 500;
 }
 
+#coffee .limonada-bean-info h1 {
+    font-size: 4rem;
+    font-weight: 500;
+}
+
 #coffee .coffee-bean-info h2 {
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-block-start: 1rem;
+}
+
+#coffee .limonada-bean-info h2 {
     font-size: 1.8rem;
     font-weight: 500;
     margin-block-start: 1rem;
@@ -349,7 +360,7 @@ p {
         border-radius: 0;
     }
 
-    #coffee .all-coffee-beans .coffee-bean-info {
+    #coffee .all-coffee-beans .limonada-bean-info {
         height: 100%
     }
 
