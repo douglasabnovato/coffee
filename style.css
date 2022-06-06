@@ -225,7 +225,7 @@ p {
     align-items: flex-start;
     justify-content: center;
     flex-direction: column;
-    background-image: linear-gradient(60deg, #f8f41a 0%, #002349 100%);
+    background-image: linear-gradient(60deg, #e9e519b6 0%, #094900 100%);
     color: white;
 }
 
